@@ -6,13 +6,13 @@
 全新版本的 GeekNAS 主页已经上线：
 
 - **HDUGeek NAS 主页**：[hdugeek.me](http://hdugeek.me) （**可以根据网络环境自动切换服务**）
-- 如果你有闲置的VPS带宽，想为平台提供公网frp端口或者ZeroTier的moon节点可以发送邮件到[geeknas@outlook.com](mailto:geeknas@outlook.com?subject=VPS端口提供)
+- 如果你有闲置的VPS带宽，想为平台提供公网端口可以发送邮件到[geeknas@outlook.com](mailto:geeknas@outlook.com?subject=VPS端口提供)
 
 
 - 主页功能简述：
  - 资料下载：File Station 文件服务（需登录）
  - 应用桌面：Disk Station 桌面（需登录）
- - 直链镜像：公开文件（由OneDrive/天翼云支持）
+ - 直链镜像：公开文件（由OneDrive支持）
  - 帮助中心：GeekNAS 帮助中心
  - HDU导航：HDU.PP.UA 导航
  - HDU VPN：校外访问校园网最佳选择（详情见校园网络）
@@ -35,6 +35,7 @@ GeekNAS 主要用于文件存储，访问`资料下载`即可直接使用共享�
 
 近期更新记录：
 
+- 21.04.11: 部分内容变更
 - 21.03.07: 新增ZeroTier链接方式，详见网络结构
 - 21.01.17: 迁移至hdugeek.me，本分支进入最后版本，预计于2021年暑假停止本版本
 - 20.05.04: 更新 开学重新上线，域名不变
